@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
     // Deklarojmë një variabël të tipit int për moshën
     int mosha = 17;
